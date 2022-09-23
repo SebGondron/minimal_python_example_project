@@ -1,1 +1,1 @@
-tarfile==0.9.0
+tarfile==3.4
